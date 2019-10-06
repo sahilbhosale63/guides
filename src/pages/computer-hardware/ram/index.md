@@ -14,6 +14,9 @@ Over the evolution of the computer there have been different variations of RAM. 
 #### RAM speeds:
 The speed rating of your RAM module is an expression of its data transfer rate. The faster the number, the faster your computer can store and retrieve the data stored in local memory. The formula for the exact speed rating changes slightly based on the version of DDR memory your computer is using. It’s no longer simply an expression of clock speed, like a processor, but a combination of hardware factors. But in general, faster is better.
 
+### Representation of Data in RAM
+For a Developer or an Engineer, RAM is a representation of tray which has multiple locations in it called the memory locations where all of the data is stored. To store the data into the memory location we have to use the data structures which can be implemented using any programming language. 
+
 
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
